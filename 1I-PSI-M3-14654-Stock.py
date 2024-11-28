@@ -85,5 +85,9 @@ A opção 5 sai do programa no mesmo instante.
 
 O \t server para dar um tablado
 
-Adicionar_material pergunta o nome e a quantidade do material que quer adicionar
+Adicionar_material pergunta o nome e a quantidade do material que quer adicionar.
+consultar_stock consulta o material que colocou no adicionar_material
+atualizar_Stock atualiza todos os materiais que estão no stock
+exibir_stock exibe todos os materiais e a quantidade que tem no stock  
+   
 
